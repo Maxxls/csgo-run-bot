@@ -130,6 +130,7 @@ dmypy.json
 
 # Sensitive information
 tokens.py
+*.session
 
 # Visual Studio Code
 .vscode/
