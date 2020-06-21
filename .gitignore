@@ -130,3 +130,9 @@ dmypy.json
 
 # Sensitive information
 tokens.py
+
+# Visual Studio Code
+.vscode/
+
+
+.DS_Store
